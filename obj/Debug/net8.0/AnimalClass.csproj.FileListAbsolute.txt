@@ -1,0 +1,14 @@
+C:\Users\nimith.shetty\Desktop\AproSCM\AnimalClass\bin\Debug\net8.0\AnimalClass.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\AnimalClass\bin\Debug\net8.0\AnimalClass.deps.json
+C:\Users\nimith.shetty\Desktop\AproSCM\AnimalClass\bin\Debug\net8.0\AnimalClass.runtimeconfig.json
+C:\Users\nimith.shetty\Desktop\AproSCM\AnimalClass\bin\Debug\net8.0\AnimalClass.dll
+C:\Users\nimith.shetty\Desktop\AproSCM\AnimalClass\bin\Debug\net8.0\AnimalClass.pdb
+C:\Users\nimith.shetty\Desktop\AproSCM\AnimalClass\obj\Debug\net8.0\AnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nimith.shetty\Desktop\AproSCM\AnimalClass\obj\Debug\net8.0\AnimalClass.AssemblyInfoInputs.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\AnimalClass\obj\Debug\net8.0\AnimalClass.AssemblyInfo.cs
+C:\Users\nimith.shetty\Desktop\AproSCM\AnimalClass\obj\Debug\net8.0\AnimalClass.csproj.CoreCompileInputs.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\AnimalClass\obj\Debug\net8.0\AnimalClass.dll
+C:\Users\nimith.shetty\Desktop\AproSCM\AnimalClass\obj\Debug\net8.0\refint\AnimalClass.dll
+C:\Users\nimith.shetty\Desktop\AproSCM\AnimalClass\obj\Debug\net8.0\AnimalClass.pdb
+C:\Users\nimith.shetty\Desktop\AproSCM\AnimalClass\obj\Debug\net8.0\AnimalClass.genruntimeconfig.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\AnimalClass\obj\Debug\net8.0\ref\AnimalClass.dll
